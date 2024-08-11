@@ -8,4 +8,4 @@ Boas práticas!
 # O que formará sua nota?
 ## 3º bimestre:
 ### Lógica de Programação
-- Projeto 1: cadastro de recrutas e calculadora de 4 operações (em sala e 14/ago) - 0.5/cada ex (total 1pt)
+- Projeto 1: cadastro de recrutas e calculadora de 4 operações (14/ago) - 0.5/cada ex (total 1pt)
