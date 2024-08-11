@@ -1,6 +1,6 @@
 #### PROFESSOR: EVERSON SOUSA | TURMA: 1º EM DESENVOLVIMENTO DE SISTEMAS
 
-DATA DE ENTREGA: Ex 1: em sala, Ex 2: até 14/AGO, até às 23:59.
+DATA DE ENTREGA: até 14/AGO, às 23:59.
 # PROJETO 1 – Cadastro de Recrutas e Calculadora de 4 Operações
 
 ## Ex1: Escreva um programa em javascript que permita salvar informações de um recruta. As informações a serem salvas são:
