@@ -8,5 +8,6 @@ Boas práticas!
 # O que formará sua nota?
 ## 3º bimestre:
 ### Lógica de Programação
+
 - Projeto 1: cadastro de recrutas e calculadora de 4 operações (entrega até 14/ago)
 - Projeto 2: compilado de exercícios para praticar (entrega até 21/ago)
