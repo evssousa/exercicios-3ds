@@ -10,4 +10,6 @@ Boas práticas!
 ### Lógica de Programação
 
 - ✅ [FINALIZADO] Projeto 1: cadastro de recrutas e calculadora de 4 operações (entrega até 14/ago)
-- ⚠️ [EM ANDAMENTO] Projeto 2: compilado de exercícios para praticar (entrega até 21/ago)
+- ✅ [FINALIZADO] Projeto 2: compilado de exercícios para praticar (entrega até 21/ago)
+- ⚠️ [EM ANDAMENTO] Projeto 3: teste de velocidade (entrega até 28/ago)
+- ⚠️ [EM ANDAMENTO] Projeto 4: cálculo de dano (entrega até 28/ago)
