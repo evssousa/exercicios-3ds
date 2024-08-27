@@ -7,6 +7,7 @@ Boas práticas!
 
 # O que formará sua nota?
 ## 3º bimestre:
+Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 de setembro
 ### Lógica de Programação
 
 - ✅ [FINALIZADO] Projeto 1: cadastro de recrutas e calculadora de 4 operações (entrega até 14/ago)
