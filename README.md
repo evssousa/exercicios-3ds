@@ -16,3 +16,4 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
 - ✅ [FINALIZADO] Projeto 4: cálculo de dano (entrega até 28/ago)
 - ✅ [FINALIZADO] Projeto 5: conversor de medidas (entrega até 01/set)
 - ⚠️ [EM ANDAMENTO] Projeto 6: (OPCIONAL) visitando novas cidades (entrega até 05/set)
+- ⚠️ [EM ANDAMENTO] Projeto Pessoal: desenvolvimento de um projeto pessoal utilizando Javascript (entrega até a semana das avaliações parciais)
