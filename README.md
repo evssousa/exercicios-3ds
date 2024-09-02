@@ -14,5 +14,5 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
 - ✅ [FINALIZADO] Projeto 2: compilado de exercícios para praticar (entrega até 21/ago)
 - ✅ [FINALIZADO] Projeto 3: teste de velocidade (entrega até 28/ago)
 - ✅ [FINALIZADO] Projeto 4: cálculo de dano (entrega até 28/ago)
-- ⚠️ [EM ANDAMENTO] Projeto 5: conversor de medidas (entrega até 01/set)
+- ✅ [FINALIZADO] Projeto 5: conversor de medidas (entrega até 01/set)
 - ⚠️ [EM ANDAMENTO] Projeto 6: (OPCIONAL) visitando novas cidades (entrega até 05/set)
