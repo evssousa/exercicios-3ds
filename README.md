@@ -16,6 +16,7 @@ Média 1
 - ✅ [FINALIZADO] Projeto 4: cálculo de dano (entrega até 28/ago)
 - ✅ [FINALIZADO] Projeto 5: conversor de medidas (entrega até 01/set)
 - 👀 [EM CORREÇÃO] Projeto 6: visitando novas cidades (entrega até 05/set)
+- 👀 [EM CORREÇÃO] Projeto 7: menu interativo (entrega até 08/set)
 
 Média 2
 - ⚠️ [EM ANDAMENTO] Projeto Pessoal: desenvolvimento de um projeto pessoal utilizando Javascript (entrega até a semana das avaliações parciais)
