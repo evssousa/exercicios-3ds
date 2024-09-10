@@ -17,6 +17,9 @@ Média 1
 - ✅ [FINALIZADO] Projeto 5: conversor de medidas (entrega até 01/set)
 - ✅ [FINALIZADO] Projeto 6: visitando novas cidades (entrega até 05/set)
 - 👀 [EM CORREÇÃO] Projeto 7: menu interativo (entrega até 08/set)
+- ⚠️ [EM ANDAMENTO] Projeto 8: controle financeiro (entrega até 11/set)
+- ⚠️ [EM ANDAMENTO] projeto 9: robô da tabuada(entrega até 18/set)
+- ⚠️ [EM ANDAMENTO] projeto 10: procurando palíndromo (entrega até 18/set)
 
 Média 2
 - ⚠️ [EM ANDAMENTO] Projeto Pessoal: desenvolvimento de um projeto pessoal utilizando Javascript (entrega até a semana das avaliações parciais)
