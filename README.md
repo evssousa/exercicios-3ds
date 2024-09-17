@@ -22,7 +22,7 @@ Média 1
 - ⚠️ [EM ANDAMENTO] projeto 10: procurando palíndromo (entrega até 18/set)
 
 Média 2
-- ⚠️ [EM ANDAMENTO] Projeto Pessoal: desenvolvimento de um projeto pessoal utilizando Javascript (entrega até a semana das avaliações parciais)
+- ⚠️ [EM ANDAMENTO] Projeto Pessoal: desenvolvimento de um projeto pessoal utilizando Javascript (entrega até 18/set)
 
 O projeto deverá possuir as seguintes estruturas:
 - Estrutura condicional If-Else-Else If
