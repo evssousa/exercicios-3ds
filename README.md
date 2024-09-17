@@ -24,7 +24,7 @@ Média 1
 Média 2
 - ⚠️ [EM ANDAMENTO] Projeto Pessoal: desenvolvimento de um projeto pessoal utilizando Javascript (entrega até 18/set)
 
-O projeto deverá possuir as seguintes estruturas:
+O projeto deverá possuir as seguintes estruturas (2 pts por estrutura utilizada):
 - Estrutura condicional If-Else-Else If
 - Esturutra condicional Switch
 - Estrutura de repetição While
