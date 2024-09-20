@@ -7,6 +7,7 @@ Boas práticas!
 
 # 3º BIMESTRE
 Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 de setembro
+
 Nota parcial: (média dos projetos + média do projeto pessoal) /  2
 
 Média 1
