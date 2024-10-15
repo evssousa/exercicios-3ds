@@ -1,0 +1,5 @@
+Link para baixar o Git: https://git-scm.com/downloads/win
+
+Instalação padrão, sem modificações.
+
+Verificar instalação: abrir Git Bash e executar o comando 'git --version'.

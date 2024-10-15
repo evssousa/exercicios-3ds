@@ -1,7 +1,0 @@
-Permite criar blocos de código que vão ser executados somente quando uma eterminada operação lógica for verdadeira.
-
-SE condição === true ENTÃO faça algo.
-
-Além disso, pode ser usado com o ELSE para acrescentar um bloco que vai ser executado somente quando essa mesma operação lógica for falsa.
-
-SE condição === true ENTÃO faça uma coisa SENÃO faça outra coisa.

@@ -1,9 +1,0 @@
-Estruturas de repetição servem para executar um mesmo bloco de código várias vezes.
-
-O while serve para criar um laço de repetição que será executado enquanto uma determinada condição for verdadeira.
-
-O while e todas as outras estruturas de repetição que veremos aceitam o break para parar a repetição a qualquer momento.
-
-Atenção: é importante que sempre exista uma forma de condição se tornar falsa, ou então o bloco ficará se repetindo para sempre.
-
-While = Enquanto

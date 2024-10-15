@@ -1,0 +1,23 @@
+Estruturas de Dados
+- São um modo particular de armazenar e organizar dados de modo que possam ser usados eficientemente, facilitando sua busca e modificação.
+
+- Estrutura de dados clássica:
+    - lista ligada:
+        - coleção ordenada de valores onde cada elemento aponta para o próximo.
+
+    - array:
+        - coleção de elementos que podem ser identificados por um índice.
+
+    - fila (queue):
+        - coleção de elementos onde o primeiro elemento a ser retirado deve ser o primeiro elemento adicionado. Também chamadas de listas FIFO (first-in / first-out, ou primeiro a entrar / primeiro a sair).
+
+    - pilha (stack)
+        - coleção de elementos onde o primeiro elemento a ser retirado deve ser o último elemento adicionado. Também chamadas de listas LIFO (last-in / first-out, ou último a entrar / primeiro a sair).
+
+    - árvore (tree):
+        - conjunto de elementos chamados de nós (ou nodes) organizados em estruturas hierárquica (não sequencial), ou seja, podendo estar "abaixo" ou "acima" de outros nós.
+        - pense em uma árvore genealógica, na estrutura das pastas no seu computador ou na estrutura de uma página HTML.
+
+- Estruturas de dados no javascript (e outras linguagens de alto nível):
+    - listas (arrays)
+    - dicionários (objetos)
