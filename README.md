@@ -32,7 +32,7 @@ O projeto deverá possuir as seguintes estruturas (2 pts por estrutura utilizada
 - Estrutura de repetição Do While
 - Estrutura de repetição For
 
-# 3º BIMESTRE
+# 4º BIMESTRE
 - Projeto 1: fila de espera (17/out)
 - Projeto 2: pilha de cartas (21/out)
 
