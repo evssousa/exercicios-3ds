@@ -35,6 +35,7 @@ O projeto deverá possuir as seguintes estruturas (2 pts por estrutura utilizada
 # 4º BIMESTRE
 - ✅ [FINALIZADO] Projeto 1: fila de espera (17/out)
 - ✅ [FINALIZADO] Projeto 2: pilha de cartas (21/out)
+- Projeto 3: cadastro de imóveis (28/out)
 
 # Regras para Correção
 
