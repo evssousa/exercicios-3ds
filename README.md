@@ -36,27 +36,7 @@ O projeto deverá possuir as seguintes estruturas (2 pts por estrutura utilizada
 - ✅ [FINALIZADO] Projeto 1: fila de espera (17/out)
 - ✅ [FINALIZADO] Projeto 2: pilha de cartas (21/out)
 - ✅ [FINALIZADO] Projeto 3: cadastro de imóveis (28/out)
-
-# DEMANDAS DO PROJETO COLETIVO: CONTADOR DE NÚMEROS
-1 - FUNÇÃO DE GERAÇÃO DE NÚMERO ALEATÓRIO<br>
-crie uma função para gerar um número aleatório entre 1 e 100.<br>
-Aluno com a demanda: SORAIA
-
-2 - ESTRUTURA CONDICIONAL IF/ELSE<br>
-verifique se o número gerado é par ou ímpar<br>
-Aluno com a demanda: ROSIELE
-
-3 - INPUT DO USUÁRIO<br>
-crie uma função que receba o palpite do usuário via prompt<br>
-Aluno com a demanda: BEATRYZ
-
-4 - ESTRUTURA CONDICIONAL SWITCH<br>
-forneça feedback específico baseado na diferença entre o número gerado e o palpite do usuário<br>
-Aluno com a demanda: LIVIA
-
-5 - LOOP WHILE<br>
-permita que o usuário faça várias tentativas até acertar<br>
-Aluno com a demanda: BERCKSON
+- ✅ [FINALIZADO] Projeto 4: calculadora geométrica (04/nov)
 
 # Regras para Correção
 
