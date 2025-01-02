@@ -1,3 +1,0 @@
-O do while é muito parecido com o while, porém ele garante que o bloco de código será executado pelo menos uma vez, mesmo que a condição seja falsa.
-
-No do while, a primeira verificação da condição só acontece depois que o bloco foi executado uma vez.
