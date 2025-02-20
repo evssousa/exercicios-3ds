@@ -14,12 +14,18 @@ Avaliações Parciais: - | Avaliações Bimestrais: -
 ### 📈 Gestão de Startup I
 - ✅ [FINALIZADO] Projeto 1: Exercitando a inovação (18/fev)
 
+### Análise e Projeto de Sistemas
+Aguardando projetos...
+
 # 2º BIMESTRE
 Avaliações Parciais: - | Avaliações Bimestrais: -
 ### 💻 Programação Web 
 Aguardando projetos...
 
 ### 📈 Gestão de Startup I
+Aguardando projetos...
+
+### Análise e Projeto de Sistemas
 Aguardando projetos...
 
 # Regras para Correção
