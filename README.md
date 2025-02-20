@@ -8,10 +8,11 @@ Boas práticas!
 # 1º BIMESTRE
 Avaliações Parciais: - | Avaliações Bimestrais: -
 ### 💻 Programação Web 
-- ✅ [FINALIZADO] Projeto 1: Formulário de Inscrição (11/fev)
+- ✅ [FINALIZADO] Projeto 1: Formulário de inscrição (11/fev)
+- ✅ [FINALIZADO] Projeto 2: Bookshelf (19/fev)
 
 ### 📈 Gestão de Startup I
-Aguardando projetos...
+- ✅ [FINALIZADO] Projeto 1: Exercitando a inovação (18/fev)
 
 # 2º BIMESTRE
 Avaliações Parciais: - | Avaliações Bimestrais: -
