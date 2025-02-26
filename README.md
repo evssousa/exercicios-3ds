@@ -7,18 +7,18 @@ Boas práticas!
 
 # 1º BIMESTRE
 ### 💻 Programação Web
-Avaliação Parcial: 08/abr | Avaliação Bimestral: 26/mar
+Avaliação Parcial: 08/abr | Avaliação Bimestral: 26/mar <br>
 Projeto Pessoal: Desenvolver um site utilizando utilizando HTML, CSS e DOM (individual ou em dupla).
 - ✅ [FINALIZADO] Projeto 1: Formulário de inscrição (11/fev)
 - ✅ [FINALIZADO] Projeto 2: Bookshelf (19/fev)
 
 ### 📈 Gestão de Startup I
-Avaliação Parcial: 08 e 11/abr | Avaliação Bimestral: 28/mar
+Avaliação Parcial: 08 e 11/abr | Avaliação Bimestral: 28/mar<br>
 Projeto Pessoal: Organização e desenvolvimento da primeira startup, utilizando como fonte de ferramenta o Instagram, precisando ter, até o final do bimestre, 100 seguidores e 10 postagens (individual ou em grupo).
 - ✅ [FINALIZADO] Projeto 1: Exercitando a inovação (18/fev)
 
 ### Análise e Projeto de Sistemas
-Avaliação Parcial: 08 e 11/abr | Avaliação Bimestral: 28/mar
+Avaliação Parcial: 08 e 11/abr | Avaliação Bimestral: 28/mar<br>
 Projeto Pessoal: Documentação de um ou ambos projetos pessoais (Programação Web e/ou Gestão de Startup), utilizando o material de especificação de requisitos (individual, dupla ou grupo).
 - ✅ [FINALIZADO] Projeto 1: Criação de um diagrama de caso de uso (25/fev)
 
