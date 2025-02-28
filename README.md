@@ -21,6 +21,7 @@ Projeto Pessoal: Organização e desenvolvimento da primeira startup, utilizando
 Avaliação Parcial: 08 e 11/abr | Avaliação Bimestral: 28/mar<br>
 Projeto Pessoal: Documentação de um ou ambos projetos pessoais (Programação Web e/ou Gestão de Startup), utilizando o material de especificação de requisitos (individual, dupla ou grupo).
 - ✅ [FINALIZADO] Projeto 1: Criação de um diagrama de caso de uso (25/fev)
+- ✅ [FINALIZADO] Projeto 2: Desenvolvimento de protótipo de baixa fidelidade no Figma (28/fev)
 
 # 2º BIMESTRE
 Avaliações Parciais: - | Avaliações Bimestrais: -
