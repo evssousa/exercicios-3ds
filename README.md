@@ -9,19 +9,19 @@ Boas práticas!
 ### 💻 Programação Web
 Avaliação Parcial: 15 e 16/abr | Avaliação Bimestral: 02/abr <br>
 Projeto Pessoal: Desenvolver um site utilizando utilizando HTML, CSS e DOM (individual ou em dupla).
-- ✅ [FINALIZADO] Projeto 1: Formulário de inscrição (11/fev | Prazo máximo: 24/fev)
-- ✅ [FINALIZADO] Projeto 2: Bookshelf (19/fev | Prazo máximo: 04/mar)
+- ✅ [FINALIZADO] Projeto 1: Formulário de inscrição (11/fev | Prazo máximo: 25/fev)
+- ✅ [FINALIZADO] Projeto 2: Bookshelf (19/fev | Prazo máximo: 05/mar)
 
 ### 📈 Gestão de Startup I
 Avaliação Parcial: 04, 11/abr e 15/abr | Avaliação Bimestral: 01/abr<br>
 Projeto Pessoal: Organização e desenvolvimento da primeira startup, utilizando como fonte de ferramenta o Instagram, precisando ter, até o final do bimestre, 100 seguidores e 10 postagens (individual ou em grupo).
-- ✅ [FINALIZADO] Projeto 1: Exercitando a inovação (18/fev | Prazo máximo: 03/mar)
+- ✅ [FINALIZADO] Projeto 1: Exercitando a inovação (18/fev | Prazo máximo: 04/mar)
 
 ### 📋 Análise e Projeto de Sistemas
 Avaliação Parcial: 11 e 15/abr | Avaliação Bimestral: 04/abr<br>
 Projeto Pessoal: Documentação de um ou ambos projetos pessoais (Programação Web e/ou Gestão de Startup), utilizando o material de especificação de requisitos (individual, dupla ou grupo).
-- Projeto 1: Criação de um diagrama de caso de uso (25/fev | Prazo máximo: 10/mar)
-- Projeto 2: Desenvolvimento de protótipo de baixa fidelidade no Figma (28/fev | Prazo máximo: 13/mar)
+- Projeto 1: Criação de um diagrama de caso de uso (25/fev | Prazo máximo: 11/mar)
+- Projeto 2: Desenvolvimento de protótipo de baixa fidelidade no Figma (28/fev | Prazo máximo: 14/mar)
 
 # 2º BIMESTRE
 Avaliações Parciais: - | Avaliações Bimestrais: -
