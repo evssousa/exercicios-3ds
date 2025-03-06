@@ -7,7 +7,7 @@ Boas práticas!
 
 # 1º BIMESTRE
 ### 🖥️ Qualidade e Testes de Software 
-Avaliação Parcial: 09/abr | Avaliação Bimestral: 26/mar <br>
+Avaliação Parcial: 16/abr | Avaliação Bimestral: 02/abr <br>
 Projeto Pessoal: Desenvolvimento de um sistema contendo 10 testes, onde todos devem passar. O sistema deve ter uma lógica que faça sentido com uso real e ser feito somente em Javascript puro com conceitos utilizados na lógica de programação (individual).
 
 - ✅ [FINALIZADO] Projeto 1: Testando componente (06/fev | Prazo máximo: 26/fev)
@@ -16,7 +16,7 @@ Projeto Pessoal: Desenvolvimento de um sistema contendo 10 testes, onde todos de
 - Projeto 4: Sistema de notas escolares (12/mar | Prazo máximo: 01/abr)
 
 ### 📈 Gestão de Startup III
-Avaliação Parcial: 08/abr | Avaliação Bimestral: 26/mar <br>
+Avaliação Parcial: 14/abr | Avaliação Bimestral: 31/mar <br>
 Projeto Pessoal: Inicio da documentação/registro e desenvolvimento do projeto social (toda a sala).
 
 - Projeto 1: Montando uma proposta de valor (24/fev | Prazo máximo: 16/mar)
