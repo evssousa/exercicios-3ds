@@ -10,8 +10,8 @@ Boas práticas!
 Avaliação Parcial: 16/abr | Avaliação Bimestral: 02/abr <br>
 Projeto Pessoal: Desenvolvimento de um sistema contendo 10 testes, onde todos devem passar. O sistema deve ter uma lógica que faça sentido com uso real e ser feito somente em Javascript puro com conceitos utilizados na lógica de programação (individual).
 
-- ✅ [FINALIZADO] Projeto 1: Testando componente (06/fev | Prazo máximo: 20/fev)
-- ✅ [FINALIZADO] Projeto 2: Configurando projeto no React (19/fev | Prazo máximo: 05/mar)
+- ✅ [FINALIZADO] Projeto 1: Meu primeiro teste (06/fev | Prazo máximo: 20/fev)
+- ✅ [FINALIZADO] Projeto 2: Testando componente com React (19/fev | Prazo máximo: 05/mar)
 - Projeto 3: Testando funções (26/fev | Prazo máximo: 12/mar)
 - Projeto 4: Sistema de notas escolares (26/fev | Prazo máximo: 12/mar)
 
