@@ -64,7 +64,7 @@ Você foi contratado como consultor para uma startup em fase inicial. Seu papel 
 **🎯 Muito Importante Saber:**
 
 - O projeto deverá ser desenvolvido em dupla;
-- Como o projeto não dá para ter seu código-fonte postado no Gitbub, será necessário a criação de um README explicando o seu projeto;
+- Como o projeto não dá para ter seu código-fonte postado no Gitbub, será necessário a criação de um README explicando o seu projeto e o link do projeto no About;
 - Ambos os alunos devem ter seus README postados em seus respectivos Githubs;
 
 **⏳ Duração Mínima do Projeto:** 1 semana
