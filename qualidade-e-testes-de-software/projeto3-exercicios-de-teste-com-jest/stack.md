@@ -1,7 +1,7 @@
 #### PROFESSOR: EVERSON SOUSA | TURMA: 3º EM DESENVOLVIMENTO DE SISTEMAS
 
 DATA DE ENTREGA: 26/FEV
-# PROJETO 2 – EXERCICIOS DE TESTE COM JEST
+# PROJETO 3 – EXERCICIOS DE TESTE COM JEST
 
 Desenvolva o que se pede abaixo e teste com o Jest, com Javascript PURO e com conceitos de lógica de programação:
 
