@@ -23,7 +23,7 @@ Esse projeto deve ser feito com base no seu entendimento. Não existe tela ou pr
 
 Para esse projeto você deve utilizar apenas eventos adicionados via javascript e a página deve funcionar sem acionar um recarregamento.
 
-Abaixo você irá encontrar um exemplo de código que fará com que a página funcione sem acionar o recarregamento. Isso é importante para que as informações preenchidas no campos não sejam apagadas quando você enviar dados pelo formulário e a página acabar recarregando. Estude o código abaixo e analise seu funcionamento com base nos comentários adicionados ao código:
+Abaixo você irá encontrar um exemplo de código que fará com que a página funcione sem acionar o recarregamento. Isso é importante para que as informações preenchidas no campos não sejam apagadas quando você enviar dados pelo formulário e a página acabar recarregando. Estude o código abaixo e analise seu funcionamento com base nos comentários adicionados:
 
 **Código HTML:**
 
