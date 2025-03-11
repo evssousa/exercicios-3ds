@@ -15,7 +15,7 @@ Construa uma página web que permita cadastrar desenvolvedores, suas tecnologias
 ---
 **ATENÇÃO 1:**
 
-Esse projeto deve ser feito no seu entendimento. Não existe tela ou print para você se basear, somente o requisito do projeto. Leia atentamente o que se pede, analise e desenvolva pelo que entendeu. Pesquise sempre que possível na documentação, nas suas anotações e nos projetos anteriores. Essa é a hora de mostrar seu conhecimento técnico em análise de requisitos e desenvolvimento web!
+Esse projeto deve ser feito com base no seu entendimento. Não existe tela ou print, somente o requisito do projeto. Leia atentamente o que se pede, analise e desenvolva pelo que entendeu. Pesquise sempre que possível na documentação, nas suas anotações e nos projetos anteriores. Essa é a hora de mostrar seu conhecimento técnico em análise de requisitos e desenvolvimento web!
 
 ---
 
@@ -23,7 +23,7 @@ Esse projeto deve ser feito no seu entendimento. Não existe tela ou print para 
 
 Para esse projeto você deve utilizar apenas eventos adicionados via javascript e a página deve funcionar sem acionar um recarregamento.
 
-Abaixo você irá encontrar um exemplo de código que fará com que a página funcione sem acionar o recarregamento. Isso é importante para que os dados não sejam apagados quando você enviar dados pelo formulário e a página recarregar.
+Abaixo você irá encontrar um exemplo de código que fará com que a página funcione sem acionar o recarregamento. Isso é importante para que as informações preenchidas no campos não sejam apagadas quando você enviar dados pelo formulário e a página acabar recarregando. Estude o código abaixo e analise seu funcionamento com base nos comentários adicionados ao código:
 
 **Código HTML:**
 
