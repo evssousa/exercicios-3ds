@@ -19,8 +19,8 @@ Projeto Pessoal: Desenvolvimento de um sistema contendo 10 testes, onde todos de
 Avaliação Parcial: 14/abr | Avaliação Bimestral: 31/mar <br>
 Projeto Pessoal: Inicio da documentação/registro e desenvolvimento do projeto social (toda a sala).
 
-- Projeto 1: Montando uma proposta de valor (24/fev | Prazo máximo: 10/mar)
-- Projeto 2: Construtindo um business model canva (24/fev | Prazo máximo: 10/mar)
+- ✅ [FINALIZADO] Projeto 1: Montando uma proposta de valor (24/fev | Prazo máximo: 10/mar)
+- ✅ [FINALIZADO] Projeto 2: Construtindo um business model canva (24/fev | Prazo máximo: 10/mar)
 - Projeto 3: Construindo um negócio com no-code/low-code (17/mar | Prazo máximo: 31/mar)
 
 # 2º BIMESTRE
