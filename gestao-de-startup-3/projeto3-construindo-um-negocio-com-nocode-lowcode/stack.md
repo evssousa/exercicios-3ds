@@ -1,6 +1,6 @@
 #### PROFESSOR: EVERSON SOUSA | TURMA: 3º EM DESENVOLVIMENTO DE SISTEMAS
 
-DATA DE ENTREGA: 17/MAR
+DATA DE ENTREGA: 19/MAR
 # PROJETO 3 – CONSTRUINDO UM NEGOCIO COM NO-CODE OU LOW-CODE
 
 As plataformas <b>No-Code e Low-Code</b> são ferramentas de desenvolvimento de software que permitem a criação de aplicativos e soluções digitais com pouca ou nenhuma necessidade de escrever código. Essas plataformas estão transformando o desenvolvimento de tecnologia, tornando-o mais acessível para pessoas sem experiência em programação, e permitindo que as empresas criem soluções de forma mais rápida e econômica.
