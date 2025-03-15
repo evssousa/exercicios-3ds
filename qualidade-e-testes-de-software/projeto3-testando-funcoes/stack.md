@@ -1,6 +1,6 @@
 #### PROFESSOR: EVERSON SOUSA | TURMA: 3º EM DESENVOLVIMENTO DE SISTEMAS
 
-DATA DE ENTREGA: 26/FEV
+DATA DE ENTREGA: 12/MAR
 # PROJETO 3 – TESTANDO FUNÇÕES
 
 Desenvolva o que se pede abaixo e teste com o Jest, com Javascript PURO e com conceitos de lógica de programação:
