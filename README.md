@@ -12,8 +12,8 @@ Projeto Pessoal: Desenvolvimento de um sistema contendo 10 testes, onde todos de
 
 - ✅ [FINALIZADO] Projeto 1: Meu primeiro teste (06/fev | Prazo máximo: 20/fev)
 - ✅ [FINALIZADO] Projeto 2: Testando componente com React (19/fev | Prazo máximo: 05/mar)
-- Projeto 3: Testando funções (26/fev | Prazo máximo: 12/mar)
-- Projeto 4: Sistema de notas escolares (26/fev | Prazo máximo: 12/mar)
+- Projeto 3: Testando funções (12/mar | Prazo máximo: 26/mar)
+- Projeto 4: Sistema de notas escolares (12/mar | Prazo máximo: 26/mar)
 
 ### 📈 Gestão de Startup III
 Avaliação Parcial: 14/abr | Avaliação Bimestral: 31/mar <br>
