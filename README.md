@@ -12,6 +12,7 @@ Projeto Pessoal: Desenvolver um site utilizando utilizando HTML, CSS e DOM (indi
 - ✅ [FINALIZADO] Projeto 1: Formulário de inscrição (11/fev | Prazo máximo: 25/fev)
 - ✅ [FINALIZADO] Projeto 2: Bookshelf (19/fev | Prazo máximo: 05/mar)
 - Projeto 3: Cadastro de devs (11/mar | Prazo máximo: 25/mar)
+- Projeto 4: Calculadora (01/abr | Prazo máximo: 15/abr)
 
 ### 📈 Gestão de Startup I
 Avaliação Parcial: 04, 11/abr e 15/abr | Avaliação Bimestral: 01/abr<br>
