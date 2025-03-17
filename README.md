@@ -5,9 +5,9 @@ Complete o exercício no tempo estimado.
 
 Boas práticas!
 
-# 1º BIMESTRE
+# 1º BIMESTRE | Data da Prova Bimestral: 01 de Abril, 8º e 9º aula
 ### 💻 Programação Web
-Avaliação Parcial: 15 e 16/abr | Avaliação Bimestral: 02/abr <br>
+Apresentação do Projeto Pessoal: 15 e 16/abr<br>
 Projeto Pessoal: Desenvolver um site utilizando utilizando HTML, CSS e DOM (individual ou em dupla).
 - ✅ [FINALIZADO] Projeto 1: Formulário de inscrição (11/fev | Prazo máximo: 25/fev)
 - ✅ [FINALIZADO] Projeto 2: Bookshelf (19/fev | Prazo máximo: 05/mar)
@@ -15,7 +15,7 @@ Projeto Pessoal: Desenvolver um site utilizando utilizando HTML, CSS e DOM (indi
 - Projeto 4: Calculadora (01/abr | Prazo máximo: 15/abr)
 
 ### 📈 Gestão de Startup I
-Avaliação Parcial: 04, 11/abr e 15/abr | Avaliação Bimestral: 01/abr<br>
+Apresentação do Projeto Pessoal: 04, 11/abr e 15/abr<br>
 Projeto Pessoal: Organização e desenvolvimento da primeira startup, utilizando como fonte de ferramenta o Instagram, precisando ter, até o final do bimestre, 100 seguidores e 10 postagens (individual ou em grupo).
 - ✅ [FINALIZADO] Projeto 1: Exercitando a inovação (18/fev | Prazo máximo: 04/mar)
 - Projeto 2: Brainstorming e Mapa mental (11/mar | Prazo máximo: 25/mar)
