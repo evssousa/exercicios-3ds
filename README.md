@@ -5,7 +5,7 @@ Complete o exercício no tempo estimado.
 
 Boas práticas!
 
-# 1º BIMESTRE | Data da Prova Bimestral: 02 de Abril, 4º e 5º aula
+# 1º BIMESTRE | Data da Prova Bimestral: 02 de Abril, 4º e 5º aula (QT, GS e DM)
 ### 🖥️ Qualidade e Testes de Software 
 Apresentação do Projeto Pessoal: 16/abr<br>
 Projeto Pessoal: Desenvolvimento de um sistema contendo 10 testes, onde todos devem passar. O sistema deve ter uma lógica que faça sentido com uso real e ser feito somente em Javascript puro com conceitos utilizados na lógica de programação (individual).
