@@ -5,7 +5,7 @@ Complete o exercício no tempo estimado.
 
 Boas práticas!
 
-# 1º BIMESTRE | Data da Prova Bimestral: 01 de Abril, 8º e 9º aula
+# 1º BIMESTRE | Data da Prova Bimestral: 01 de Abril, 1º, 2º (GS e APS), 8º e 9º (PW) aula
 ### 💻 Programação Web
 Apresentação do Projeto Pessoal: 15 e 16/abr<br>
 Projeto Pessoal: Desenvolver um site utilizando utilizando HTML, CSS e DOM (individual ou em dupla).
