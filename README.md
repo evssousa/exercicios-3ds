@@ -19,6 +19,7 @@ Apresentação do Projeto Pessoal: 04, 11/abr e 15/abr<br>
 Projeto Pessoal: Organização e desenvolvimento da primeira startup, utilizando como fonte de ferramenta o Instagram, precisando ter, até o final do bimestre, 100 seguidores e 10 postagens (individual ou em grupo).
 - ✅ [FINALIZADO] Projeto 1: Exercitando a inovação (18/fev | Prazo máximo: 04/mar)
 - Projeto 2: Brainstorming e Mapa mental (11/mar | Prazo máximo: 25/mar)
+- Projeto 3: Identificando dores do consumidor (25/mar | Prazo máximo: 08/abr)
 
 ### 📋 Análise e Projeto de Sistemas
 Avaliação Parcial: 11 e 15/abr | Avaliação Bimestral: 04/abr<br>
