@@ -70,6 +70,7 @@ Vocês deverão instalar o WordPress em uma hospedagem gratuita da **InfinityFre
 - Adicione um README no seu Github explicando sobre o que se trata o site.
 - No README, crie um pequeno relatório com uma descrição sobre o processo de desenvolvimento, dificuldades e soluções aplicadas.
 - Adicione o link do seu projeto no About do Github.
+- Este projeto poderá ser feito em grupo de 4 pessoas.
 
 ---
 
