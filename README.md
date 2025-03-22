@@ -6,8 +6,7 @@ Complete o exercício no tempo estimado.
 Boas práticas!
 
 # 1º BIMESTRE
-### Data das Provas Bimestrais: 02 de Abril
-### 8º e 9º: QT, GS e DM
+### Data das Provas Bimestrais: 02 de Abril | 8º e 9º: QT, GS e DM
 ---
 ### 🖥️ Qualidade e Testes de Software 
 Apresentação do Projeto Pessoal: 16/abr<br>
