@@ -6,7 +6,7 @@ Complete o exercício no tempo estimado.
 Boas práticas!
 
 # 1º BIMESTRE
-# Data das Provas Bimestrais: 02 de Abril
+## Data das Provas Bimestrais: 02 de Abril
 ### 1º e 2º: PW, BD e UX | 6º e 7º: GS e APS
 ### 💻 Programação Web
 Apresentação do Projeto Pessoal: 15 e 16/abr<br>
