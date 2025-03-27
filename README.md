@@ -22,6 +22,7 @@ Projeto Pessoal: Organização e desenvolvimento da primeira startup, utilizando
 - ✅ [FINALIZADO] Projeto 1: Exercitando a inovação (18/fev | Prazo máximo: 04/mar)
 - ✅ [FINALIZADO] Projeto 2: Brainstorming e Mapa mental (11/mar | Prazo máximo: 25/mar)
 - Projeto 3: Identificando dores do consumidor (25/mar | Prazo máximo: 08/abr)
+- Projeto 4: Matriz de necessidade (01/abr | Prazo máximo: 15/abr)
 
 ### 📋 Análise e Projeto de Sistemas
 Avaliação Parcial: 11 e 15/abr | Avaliação Bimestral: 04/abr<br>
@@ -29,6 +30,7 @@ Projeto Pessoal: Documentação de um ou ambos projetos pessoais (Programação 
 - ✅ [FINALIZADO] Projeto 1: Criação de um diagrama de caso de uso (25/fev | Prazo máximo: 11/mar)
 - ✅ [FINALIZADO] Projeto 2: Desenvolvimento de protótipo de baixa fidelidade no Figma (28/fev | Prazo máximo: 14/mar)
 - Projeto 3: Criando um site WordPress com temas e plugins básicos (28/mar | Prazo máximo: 11/abr)
+- Projeto 4: Modelagem de um pequeno sistema com UML e BPMN (01/abr | Prazo máximo: 15/abr)
 
 # 2º BIMESTRE
 Avaliações Parciais: - | Avaliações Bimestrais: -
