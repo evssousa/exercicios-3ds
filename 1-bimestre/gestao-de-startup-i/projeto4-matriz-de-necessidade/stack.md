@@ -25,7 +25,7 @@ Satisfação: Qual sua satisfação atual de quando precisa saber do estoque de 
 
 Entendendo isso, vamos ao projeto!
 
-## Criação da Matriz de Necessidade e participação das matrizes:
+### Criação da Matriz de Necessidade:
 
 Com seu grupo do projeto pessoal de Gestão de Startup I, explique de forma simples, sobre o projeto pessoal de vocês e formulem 5 perguntas relacionados com o grau de importância e satisfação do seu projeto pessoal, adicionando em um README em seus Githubs.
 
