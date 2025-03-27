@@ -1,6 +1,6 @@
 #### PROFESSOR: EVERSON SOUSA | TURMA: 2º EM DESENVOLVIMENTO DE SISTEMAS
 
-DATA DE ENTREGA: 27/MAR
+DATA DE ENTREGA: 28/MAR
 # PROJETO 4 – MATRIZ DE NECESSIDADE
 
 A Matriz de Necessidade é uma das ferramentas que ajuda a fornecer insights sobre quais atributos de produto ou serviço focar.
