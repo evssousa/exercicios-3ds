@@ -1,6 +1,6 @@
 #### PROFESSOR: EVERSON SOUSA | TURMA: 2º EM DESENVOLVIMENTO DE SISTEMAS
 
-DATA DE ENTREGA: 28/MAR
+DATA DE ENTREGA: 04/ABR
 # PROJETO 3 – CRIANDO UM SITE WORDPRESS COM TEMAS E PLUGINS BÁSICOS
 
 Vocês deverão instalar o WordPress em uma hospedagem gratuita da **InfinityFree** e usar o **plugin Elementor** para replicar a PÁGINA PRINCIPAL do site **[animeprofile.com.br](https://animeprofile.com.br)**, o mais fiel possível.
