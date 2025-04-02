@@ -3,7 +3,7 @@
 DATA DE ENTREGA: 04/ABR
 # PROJETO 3 – CRIANDO UM SITE WORDPRESS COM TEMAS E PLUGINS BÁSICOS
 
-Vocês deverão instalar o WordPress em uma hospedagem gratuita da **InfinityFree** e usar o **plugin Elementor** para replicar a PÁGINA PRINCIPAL do site **[animeprofile.com.br](https://animeprofile.com.br)**, o mais fiel possível.
+Vocês deverão instalar o WordPress em uma hospedagem gratuita da **InfinityFree** e usar o **plugin Elementor** para replicar a PÁGINA PRINCIPAL do site **[animeprofile.com.br](https://animeprofile.com.br/home)**, o mais fiel possível.
 
 #### **Passo 1: Criação de Conta e Instalação do WordPress no InfinityFree**
 
@@ -40,7 +40,7 @@ Vocês deverão instalar o WordPress em uma hospedagem gratuita da **InfinityFre
 #### **Passo 3: Replicação do Site**
 
 1. **Analisando o Site Original:**
-   - Acesse o site **[animeprofile.com.br](https://animeprofile.com.br)** e analise o layout da página principal e estrutura:
+   - Acesse o site **[animeprofile.com.br](https://animeprofile.com.br/home)** e analise o layout da página principal e estrutura:
      - Cabeçalho (com logo e menu de navegação)
      - Seção principal (slider/carrossel ou destaque)
      - Listagem de animes (grid ou lista com imagens e títulos)
