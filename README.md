@@ -23,7 +23,7 @@ Projeto Pessoal: Inicio da documentação/registro e desenvolvimento do projeto 
 
 - ✅ [FINALIZADO] Projeto 1: Montando uma proposta de valor (24/fev | Prazo máximo: 10/mar)
 - ✅ [FINALIZADO] Projeto 2: Construtindo um business model canva (24/fev | Prazo máximo: 10/mar)
-- Projeto 3: Construindo um negócio com no-code/low-code (19/mar | Prazo máximo: 31/mar)
+- ✅ [FINALIZADO] Projeto 3: Construindo um negócio com no-code/low-code (19/mar | Prazo máximo: 31/mar)
 - Projeto 4: Planejamento estratégico (31/mar | Prazo máximo: 14/abr)
 
 # 2º BIMESTRE
