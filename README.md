@@ -22,7 +22,7 @@ Projeto Pessoal: Organização e desenvolvimento da primeira startup, utilizando
 - ✅ [FINALIZADO] Projeto 1: Exercitando a inovação (18/fev | Prazo máximo: 04/mar)
 - ✅ [FINALIZADO] Projeto 2: Brainstorming e Mapa mental (11/mar | Prazo máximo: 25/mar)
 - ✅ [FINALIZADO] Projeto 3: Identificando dores do consumidor (25/mar | Prazo máximo: 08/abr)
-- Projeto 4: Matriz de necessidade (28/mar | Prazo máximo: 11/abr)
+- ✅ [FINALIZADO] Projeto 4: Matriz de necessidade (28/mar | Prazo máximo: 11/abr)
 
 ### 📋 Análise e Projeto de Sistemas
 Avaliação Parcial: 11 e 15/abr | Avaliação Bimestral: 04/abr<br>
