@@ -9,7 +9,7 @@ Imagem utilizada no projeto:
 
 <img src="./react.png">
 
-Você pode utilizá-la como importação ou colocando-a na pasta “public” do Vite (usando o caminho “/nome-da-imagem.png”):
+Você pode utilizá-la como importação ou colocando-a na pasta “public” do Vite (usando o caminho “../public/gato.jpg”):
 
 Página HTML a ser reproduzida:
 
