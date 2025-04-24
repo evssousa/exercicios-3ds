@@ -1,4 +1,4 @@
-### **2. GESTÃO DE STARTUP I**
+### **GESTÃO DE STARTUP I**
 #### Passo 1: **Detalhar o tipo de inovação, criando o brainstorming com mapa mental** (1 ponto)
 Escolha um tipo de inovação que pode ser implementado em uma startup e crie um mapa mental para detalhá-lo. O mapa deve incluir:
 - O tipo de inovação escolhida (Ex.: inovação de produto, inovação de processo, etc.).
