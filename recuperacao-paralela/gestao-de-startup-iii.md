@@ -1,4 +1,4 @@
-### **5. GESTÃO DE STARTUP III**
+### **GESTÃO DE STARTUP III**
 #### Passo 1: **Montar uma proposta de valor** (1 ponto)
 Crie uma proposta de valor para a sua startup. A proposta deve responder à pergunta: "Por que os clientes devem escolher o seu produto/serviço?" A proposta de valor deve ser clara e concisa, destacando os principais benefícios que sua startup oferece.
 
