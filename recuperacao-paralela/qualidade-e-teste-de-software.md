@@ -1,4 +1,4 @@
-### **4. QUALIDADE E TESTE DE SOFTWARE**
+### **QUALIDADE E TESTE DE SOFTWARE**
 #### Passo 1: **Criar interface com HTML e CSS** (1 ponto)
 Crie uma interface simples com HTML e CSS. A interface pode incluir por exemplo:
 - Um formulário de contato com campos de nome, email e mensagem.
