@@ -1,4 +1,4 @@
-### **3. ANÁLISE E PROJETO DE SISTEMAS**
+### **ANÁLISE E PROJETO DE SISTEMAS**
 #### Passo 1: **Criar um diagrama de caso de uso** (1 ponto)
 Crie um diagrama de caso de uso para o sistema que você está projetando. O diagrama deve incluir:
 - Pelo menos 3 atores (usuários ou sistemas).
