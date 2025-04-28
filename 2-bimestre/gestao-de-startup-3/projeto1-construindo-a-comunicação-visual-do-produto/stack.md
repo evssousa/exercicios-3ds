@@ -3,7 +3,7 @@
 DATA DE ENTREGA: 28/abr | Prazo máximo: 02/mai
 
 # PROJETO 1: CONSTRUINDO A COMUNICAÇÃO VISUAL DO PRODUTO
-<!--
+
 ## 📜 Introdução (Briefing de Cliente)
 
 Você foi contratado por uma startup de tecnologia para criar **toda a base visual do seu novo produto**.
