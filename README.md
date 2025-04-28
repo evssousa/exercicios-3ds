@@ -5,34 +5,13 @@ Complete o exercício no tempo estimado.
 
 Boas práticas!
 
-# 1º BIMESTRE
-### Data das Provas Bimestrais: 02 de Abril | 8º e 9º: QT, GS e DM
----
-### 🖥️ Qualidade e Testes de Software 
-Apresentação do Projeto Pessoal: 16/abr<br>
-Projeto Pessoal: Desenvolvimento de um sistema contendo 10 testes, onde todos devem passar. O sistema deve ter uma lógica que faça sentido com uso real e ser feito somente em Javascript puro com conceitos utilizados na lógica de programação (individual).
-
-- ✅ [FINALIZADO] Projeto 1: Meu primeiro teste (06/fev | Prazo máximo: 20/fev)
-- ✅ [FINALIZADO] Projeto 2: Testando componente com React (19/fev | Prazo máximo: 05/mar)
-- ✅ [FINALIZADO] Projeto 3: Testando funções (12/mar | Prazo máximo: 26/mar)
-- ✅ [FINALIZADO] Projeto 4: Sistema de notas escolares (12/mar | Prazo máximo: 26/mar)
-
-### 📈 Gestão de Startup III
-Apresentação do Projeto Pessoal: 14/abr<br>
-Projeto Pessoal: Inicio da documentação/registro e desenvolvimento do projeto social (toda a sala).
-
-- ✅ [FINALIZADO] Projeto 1: Montando uma proposta de valor (24/fev | Prazo máximo: 10/mar)
-- ✅ [FINALIZADO] Projeto 2: Construtindo um business model canva (24/fev | Prazo máximo: 10/mar)
-- ✅ [FINALIZADO] Projeto 3: Construindo um negócio com no-code/low-code (19/mar | Prazo máximo: 31/mar)
-- Projeto 4: Planejamento estratégico (31/mar | Prazo máximo: 14/abr)
-
 # 2º BIMESTRE
 Avaliações Parciais: - | Avaliações Bimestrais: -
 ### 🖥️ Qualidade e Testes de Software 
 Aguardando projetos...
 
 ### 📈 Gestão de Startup III
-Aguardando projetos...
+- Projeto 1: Construindo a comunicação visual do produto (28/abr | Prazo máximo: 02/mai)
 
 # Regras para Correção
 
