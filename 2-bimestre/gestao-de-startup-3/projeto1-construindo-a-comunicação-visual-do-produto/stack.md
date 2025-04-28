@@ -68,7 +68,9 @@ Crie um pequeno portfólio (apresentação) contendo:
 Monte tudo e adicione no seu Github em um README contendo:
 
 ✅ Paleta de Cores + justificativa
+
 ✅ Tipografia + justificativa
+
 ✅ Exemplos de Elementos Visuais
 
 A organização do projeto fica por sua conta, capriche!
