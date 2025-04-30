@@ -1,3 +1,9 @@
+PROFESSOR: EVERSON SOUSA | TURMA: 2º EM DESENVOLVIMENTO DE SISTEMAS
+
+DATA DE ENTREGA: 30/abr | Prazo Máximo: 06/mai
+
+# PROJETO 5 - CRIANDO UM COMPONENTE PROFILE
+
 ## 📋 Introdução ao Projeto
 
 ### 🏢 Cenário:
@@ -25,3 +31,5 @@ Seu componente `Profile` deve:
 - Utilizar `Fragment` para estruturar o conteúdo.
 - Criar um **CSS** ou **estilo inline** simples para melhorar a aparência.
 - Utilizar o `Profile` no `App.jsx`, chamando-o 3 vezes com dados diferentes.
+
+Boas práticas! 🤙
