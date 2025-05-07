@@ -42,7 +42,7 @@ test('soma de 2 + 3 deve ser 5', () => {
 **Execução:**
 
 ```bash
-npx jest
+npm jest
 
 ```
 
