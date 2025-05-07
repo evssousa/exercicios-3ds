@@ -36,7 +36,7 @@ DATA DE ENTREGA: 07/MAI | PRAZO MÁXIMO: 13/MAI
 
 Base do Design UI inicial do projeto:
 
-![image.png](image.png)
+<img src="./image.png">
 
 ### ⚠️ VAMOS FAZER UMA MELHORIA NA INSTALAÇÃO DO JEST NO REACT!
 
