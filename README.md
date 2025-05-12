@@ -16,5 +16,5 @@ Projeto Pessoal: 10 e 13 de junho (Grupo de até 5 pessoas) | Demonstração da 
 - Projeto 1: Técnicas Criativas - Duplo Diamante (29/abr | Prazo máximo: 2/mai)
 
 ### 📝 Análise e Projeto de Sistemas
-Projeto Pessoal: 10 e 13 de junho (Dupla) | Desenvolvimento da documentação de uma aplicação em WordPress, utilizando os estudos de diagramas e arquitetura básica de sistemas.
+Projeto Pessoal: 10 e 13 de junho (Dupla) | Desenvolvimento da documentação de uma aplicação pensada em WordPress, utilizando os estudos de diagramas e arquitetura básica de sistemas. (Não há necessidade de desenvolvimento de um site com WordPress, somente a criação da documentação).
 Aguardando projetos...
