@@ -14,3 +14,6 @@ Projeto Pessoal: -  18 de junho (Dupla) | Desenvolvimento de uma aplicação em 
 ### 📈 Gestão de Startup III
 Projeto Social: - Junho (Sala) | Desenvolvimento de uma ação social de informatização de alunos de outra escolas, General Sampaio, Apuiarés e Tejuçuoca.
 - Projeto 1: Construindo a comunicação visual do produto (28/abr | Prazo máximo: 02/mai)
+- Projeto 2: Participação no projeto da prof Stelina
+- Projeto 3: Criação de um currículo
+- Projeto 4: Participação na Gincana Escolar
