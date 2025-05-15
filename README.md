@@ -17,5 +17,5 @@ Projeto Social: Junho (Sala) | Desenvolvimento da ação social de informatizaç
 
 ✅ [FINALIZADO] - Projeto 1: Construindo a comunicação visual do produto (28/abr | Prazo máximo: 02/mai)
 - Projeto 2: Participação no projeto da prof Stelina
-- Projeto 3: Criação de um currículo
+✅ [FINALIZADO] - Projeto 3: Criação de um currículo
 - Projeto 4: Participação na Gincana Escolar
