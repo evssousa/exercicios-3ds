@@ -9,8 +9,8 @@ Boas práticas!
 Avaliações Bimestrais: -
 ### 💻 Programação Web 
 Projeto Pessoal: 17 de junho (Dupla) | Desenvolvimento de uma aplicação em React com conceito na resolução de algum problema.
-- Projeto 6: Primeiro site com React (29/abr | Prazo máximo: 5/mai)
-- Projeto 7: Criado um componente profile (30/abr | Prazo Máximo: 6/mai)
+✅ [FINALIZADO] - Projeto 6: Primeiro site com React (29/abr | Prazo máximo: 5/mai)
+✅ [FINALIZADO] - Projeto 7: Criado um componente profile (30/abr | Prazo Máximo: 6/mai)
 
 ### 📈 Gestão de Startup I
 Projeto Pessoal: 10 e 13 de junho (Grupo de até 5 pessoas) | Demonstração da continuação da Startup, com registro no caderno de campo e meta a ser atingida no Instagram (250 seguidores e 25 posts).
