@@ -9,6 +9,7 @@ Boas práticas!
 Avaliações Bimestrais: -
 ### 💻 Programação Web 
 Projeto Pessoal: 17 de junho (Dupla) | Desenvolvimento de uma aplicação em React com conceito na resolução de algum problema.
+
 ✅ [FINALIZADO] - Projeto 6: Primeiro site com React (29/abr | Prazo máximo: 5/mai)
 ✅ [FINALIZADO] - Projeto 7: Criado um componente profile (30/abr | Prazo Máximo: 6/mai)
 
