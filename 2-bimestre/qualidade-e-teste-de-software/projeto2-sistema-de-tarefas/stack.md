@@ -32,7 +32,7 @@
 
 Base do Design UI inicial do projeto:
 
-![image.png](attachment:3e8e4f8d-0e1d-484e-8a49-7994d4160746:image.png)
+![image.png](image.png)
 
 ### **Por fim, o teste deve sair dessa forma:**
 ```bash
