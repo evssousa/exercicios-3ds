@@ -17,6 +17,6 @@ Projeto Pessoal: 18 de junho (Dupla) | Desenvolvimento de uma aplicação em Rea
 Projeto Social: Junho (Sala) | Desenvolvimento da ação social de informatização de alunos de outra escolas, General Sampaio, Apuiarés e Tejuçuoca.
 
 - ✅ [FINALIZADO] - Projeto 5: Construindo a comunicação visual do produto (28/abr | Prazo máximo: 02/mai)<br>
-- Projeto 6: Participação no projeto da prof Stelina
+- ✅ [FINALIZADO] - Projeto 6: Participação no projeto da prof Stelina
 - ✅ [FINALIZADO] - Projeto 7: Criação de um currículo<br>
 - Projeto 8: Participação na Gincana Escolar
