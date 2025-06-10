@@ -16,6 +16,7 @@ Projeto Pessoal: 17 de junho (Dupla) | Desenvolvimento de uma aplicação em Rea
 Projeto Pessoal: 10 e 13 de junho (Grupo de até 5 pessoas) | Demonstração da continuação da Startup, com registro no caderno de campo e meta a ser atingida no Instagram (250 seguidores e 25 posts).
 - ✅ [FINALIZADO] - Projeto 6: Técnicas Criativas - Duplo Diamante (29/abr | Prazo máximo: 2/mai)
 - ✅ [FINALIZADO] - Projeto 7: Análise de Macroambiente e Concorrência (20/mai | Prazo máximo: 27/mai)
+- ✅ [FINALIZADO] - Projeto 8: Escolha ou Criação de uma Ideia de Negócio (27/mai | Prazo máximo: 3/jun)
 
 ### 📝 Análise e Projeto de Sistemas
 Projeto Pessoal: 10 e 13 de junho (Dupla) | Desenvolvimento da documentação de uma aplicação pensada em WordPress, utilizando os estudos de diagramas e arquitetura básica de sistemas. (Não há necessidade de desenvolvimento de um site com WordPress, somente a criação da documentação).
