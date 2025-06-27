@@ -1,4 +1,3 @@
-<!-- 
 ## 📘 Projeto **de Recuperação – Documentação do Sistema de Biblioteca Escolar**
 
 ### 🎯 **Desafio: Proponha um sistema simples para resolver um problema real de biblioteca**
