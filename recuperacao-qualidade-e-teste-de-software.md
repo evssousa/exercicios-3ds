@@ -1,4 +1,4 @@
-<!-- ## 🧪 **Projeto de Recuperação – "Formulario de Nome e Saudação"**
+## 🧪 **Projeto de Recuperação – "Formulario de Nome e Saudação"**
 
 ### 🎯 **Desafio: Criar um componente com um formulário simples e testá-lo**
 
