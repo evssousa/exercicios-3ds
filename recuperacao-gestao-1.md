@@ -1,4 +1,3 @@
-<!--
 ## 📘 Projeto **de Recuperação – Criação de Ideia de Negócio a Partir de um Problema Real**
 
 ### 🎯 **Desafio: Como resolver um problema simples do dia a dia com uma ideia de negócio?**
