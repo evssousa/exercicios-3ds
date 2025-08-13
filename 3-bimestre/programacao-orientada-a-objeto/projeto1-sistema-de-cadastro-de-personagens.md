@@ -29,7 +29,7 @@ O sistema precisa permitir:
 
 ---
 
-### 🖥 **Passo a Passo da Atividade**
+### 🖥 **Passo a Passo**
 
 1. **Planejamento da classe** 📝
     - Decidir quais atributos e métodos serão comuns a todos os personagens.
