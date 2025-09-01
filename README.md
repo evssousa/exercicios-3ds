@@ -4,3 +4,16 @@ Lista de exercícios para os alunos das turmas de Desenvolvimento de Sistemas da
 Complete o exercício no tempo estimado.
 
 Boas práticas!
+
+# 3º BIMESTRE
+## Programação Orientada a Objetos
+- Apresentação do Projeto Pessoal: 23/set e 24/set
+- Avaliações Bimestrais: 23/set
+
+## Segurança da Informação
+- Apresentação do Projeto Pessoal: 19/set e 26/set
+- Avaliações Bimestrais: 23/set
+
+## Gestão de Startup II
+- Apresentação do Projeto Pessoal: 18/set e 25/set
+- Avaliações Bimestrais: 23/set
