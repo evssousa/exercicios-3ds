@@ -3,6 +3,8 @@ Lista de exercícios para os alunos das turmas de Desenvolvimento de Sistemas da
 
 Complete o exercício no tempo estimado.
 
+<a href="https://meet.google.com/uvh-vwnd-rqb" target="_blank">Ver aula hoje no MEET!</a>
+
 Boas práticas!
 
 # 3º BIMESTRE
