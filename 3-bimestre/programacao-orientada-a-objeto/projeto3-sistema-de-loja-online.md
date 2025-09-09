@@ -2,8 +2,6 @@ PROFESSOR: Everson Sousa | TURMA: 2º EM DESENVOLVIMENTO DE SISTEMAS
 
 DATA DE ENTREGA: 09/SET | Prazo Máximo: 15/set
 
----
-
 # **PROJETO 3 - SISTEMA DE LOJA ONLINE**
 
 ## 📝 Projeto
