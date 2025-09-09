@@ -124,7 +124,7 @@ Valor total do pedido: 250
 
 Você terá uma etapa muito importante nesse projeto (além de ter a saída no terminal informado acima) para saber se tudo está ocorrendo direito. Além da pasta `class`, crie também uma pasta `test`.
 
-Dentro dessa pasta, crie um arquivo com nome `acesso.test.js` e cole o código abaixo:
+Dentro dessa pasta, crie um arquivo com nome `loja.test.js` e cole o código abaixo:
 
 ```jsx
 const Cliente = require("../class/Cliente");
