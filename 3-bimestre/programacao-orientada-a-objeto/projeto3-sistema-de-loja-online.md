@@ -39,6 +39,7 @@ projeto-loja/
 
 - `Usuario` será a classe **pai** de `Cliente` e `Administrador`.
 - Também terá um método `acessoPainel( )` com a mensagem “Acesso genérico ao sistema”.
+- Terá os atributos privados `nome` e `idade`.
 - **Herança**:
     - `Cliente` herda de `Usuario` e tem:
         - Um **carrinho** que adicionará os produtos (associação com produtos/pedidos).
