@@ -25,7 +25,7 @@ projeto-loja/
 │   ├── Administrador.js
 │   ├── Produto.js
 │   ├── Pedido.js
-│── teste/
+│── test/
 │   ├── loja.test.js
 │── index.js
 
