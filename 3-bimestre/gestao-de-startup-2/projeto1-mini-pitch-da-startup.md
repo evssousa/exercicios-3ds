@@ -1,6 +1,7 @@
 PROFESSOR: EVERSON SOUSA | TURMA: 2º EM DESENVOLVIMENTO DE SISTEMAS
 
-DATA DE ENTREGA: 28/ago | Prazo Máximo: 03/set
+DATA DE ENTREGA: 28/ago | Prazo Máximo: 03/set (2,0 pontos)<br>
+2º ENTREGA: até 16/set (1,5 pontos) 
 
 # 📌 **Projeto 1 – Mini Pitch da Startup**
 
