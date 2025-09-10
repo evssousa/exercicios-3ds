@@ -1,6 +1,6 @@
 PROFESSOR: EVERSON SOUSA | TURMA: 2º EM DESENVOLVIMENTO DE SISTEMAS
 
-DATA DE ENTREGA: 11/set | Prazo Máximo: 18/set (apresentação em sala)
+DATA DE ENTREGA: 18/set (apresentação em sala)
 
 **⚠️ ATENÇÃO: ESSE PROJETO NÃO TERÁ UMA SEGUNDA APRESENTAÇÃO!**
 
