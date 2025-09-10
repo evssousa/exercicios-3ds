@@ -1,7 +1,7 @@
 PROFESSOR: EVERSON SOUSA | TURMA: 2º EM DESENVOLVIMENTO DE SISTEMAS
 
-DATA DE ENTREGA: 26/ago| Prazo Máximo: 01/set <br>
-DATA DA 2º CORREÇÃO: até 09/set
+DATA DE ENTREGA: 26/ago| Prazo Máximo: 01/set (2,5 pontos) <br>
+DATA DA 2º CORREÇÃO: até 09/set (1,5 pontos)
 
 # 🏗️ Projeto 2 – Sistema de Cadastro de Usuários
 
