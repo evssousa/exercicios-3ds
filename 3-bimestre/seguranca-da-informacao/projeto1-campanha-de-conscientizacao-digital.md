@@ -1,7 +1,7 @@
 PROFESSOR: EVERSON SOUSA | TURMA: 2º EM DESENVOLVIMENTO DE SISTEMAS
 
-DATA DE ENTREGA: 22/ago| Prazo Máximo: 28/ago <br>
-DATA DA 2º ENTREGA: até 04/set
+DATA DE ENTREGA: 22/ago| Prazo Máximo: 28/ago (2,5 pontos) <br>
+DATA DA 2º ENTREGA: até 04/set (1,5 pontos)
 
 # 📌 Projeto 1 – Campanha de Conscientização Digital
 
