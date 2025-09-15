@@ -42,7 +42,7 @@ Boas práticas!
 - PHISHING, CODIGOS MALICIOSOS E VERIFICAÇÃO DE DUAS ETAPAS
 
 ## Gestão de Startup II
-- Apresentação do Projeto Pessoal: 18/set
+- Apresentação do Projeto Pessoal: 25/set
 - Avaliações Bimestrais: 23/set
 
 ### Conteúdos para estudar para a prova:
