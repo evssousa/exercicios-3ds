@@ -1,4 +1,4 @@
-# 🎯 Exercício
+# 🎯 Exercício: Pessoa com NPM
 
 No arquivo chamado `pessoa.js`, exporte uma função chamada **apresentarPessoa**.
 
