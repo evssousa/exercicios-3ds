@@ -27,18 +27,3 @@ npm test
 ```
 
 Se passar ✅, quer dizer que sua função está correta!
-
-## 📂 Estrutura do Exercício
-
-```
-ex02-calculadora-com-javascript
- ┣ 📂 src
- ┃ ┗ 📜 calculadora.js
- ┣ 📂 test
- ┃ ┗ 📜 calculadora.test.js
- ┣ 📜 package.json
- ┗ 📜 README.md
-
-```
-
----
