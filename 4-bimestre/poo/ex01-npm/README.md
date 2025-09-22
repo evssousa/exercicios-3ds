@@ -19,8 +19,12 @@ No `package.json`, adicione um script chamado **start** que execute `pessoa.js`.
   "test": "jest"
 }
 ```
+Não esqueça de instalar o Jest para fazer os testes:
+```bash
+npm install jest -D
+```
 
-E no terminal:
+E para testar, no terminal:
 
 ```bash
 npm test
