@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ex01-npm
+        working-directory: 4-bimestre/poo/ex01-npm
     steps:
       - uses: actions/checkout@v3
       - run: npm install
@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ex02-calculadora-organizada
+        working-directory: 4-bimestre/poo/ex02-calculadora-organizada
     steps:
       - uses: actions/checkout@v3
       - run: npm install

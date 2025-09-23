@@ -1,4 +1,4 @@
-import { somar } from "../src/index"
+import { somar } from "../src/calculadora"
 
 describe("Função somar", () => {
   test("Deve somar dois números positivos", () => {

@@ -6,7 +6,7 @@ Crie uma função chamada **somar** em `src/calculadora.ts` que receba **dois n�
 
 No `package.json`, adicione um script chamado **start** que execute `calculadora.ts`.
 
-👉 Adicione no tsconfig.json o script abaixo:
+👉 Adicione no tsconfig.json (`npx tsc --init`) o script abaixo:
 ```json
 {
   "compilerOptions": {
