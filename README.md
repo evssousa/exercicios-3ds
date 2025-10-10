@@ -3,6 +3,6 @@ Lista de exercícios para os alunos das turmas de Desenvolvimento de Sistemas da
 
 Complete o exercício no tempo estimado.
 
-<a href="https://meet.google.com/dnf-yckv-nbm" target="_blank">Ver aula 08-10 no MEET (parte 2)!</a>
+<a href="https://meet.google.com/hqy-iqet-fwg" target="_blank">Ver aula 10-10 no MEET (parte 1)!</a>
 
 Boas práticas!
