@@ -3,54 +3,6 @@ Lista de exercícios para os alunos das turmas de Desenvolvimento de Sistemas da
 
 Complete o exercício no tempo estimado.
 
-<a href="https://meet.google.com/yhk-xckc-hvn" target="_blank">Ver aula 03-09 no MEET!</a>
+<a href="https://meet.google.com/hqy-iqet-fwg" target="_blank">Ver aula 10-10 no MEET (parte 1)!</a>
 
 Boas práticas!
-
-# 3º BIMESTRE
-## Programação Orientada a Objetos
-- Apresentação do Projeto Pessoal: 24/set
-- Avaliações Bimestrais: 23/set
-
-### Conteúdos para estudar para a prova:
-- INTRODUÇÃO AO POO E REVISÃO DE OBJETOS NO JAVASCRIPT
-- O QUE É OO E POO NO JAVASCRIPT
-- CLASSES: CONSTRUTOR E THIS
-- CLASSES: INSTANCIAS
-- CLASSES: ACTION
-- CORRIGIR: CLASSES: ABSTRAÇÃO
-- CLASSES: ENCAPSULAMENTO
-- CLASSES: GETTER
-- CLASSES: SETTER
-- CLASSES: VARIAVEL/METODO ESTATICO
-- CLASSES: HERANÇA
-- CLASSES: POLIMORFISMO
-- CLASSES: FACTORY
-
-## Segurança da Informação
-- Apresentação do Projeto Pessoal: 26/set
-- Avaliações Bimestrais: 23/set
-
-### Conteúdos para estudar para a prova:
-- OS PILARES DA SEGURANÇA DA INFORMAÇÃO
-- TERMOS DE SEGURANÇA DA INFORMAÇÃO
-- COMPUTADORES
-- PRINCIPAIS RISCOS, CUIDADOS A SEREM TOMADOS, APLICATIVOS E TERCEIROS, CONTAS, SENHAS E DICAS NA UTILIZAÇÃO DE COMPUTADORES DE TERCEIROS
-- DISPOSITIVOS MOVEIS
-- PRINCIPAIS RISCOS, CUIDADOS COM OS DISPOSITIVOS, CUIDADOS COM APPS DE VENDA, TROCA E FURTO
-- SENHAS, PRINCIPAIS RISCOS, CUIDADOS, COMO USAR CORRETAMENTE E ALTERAÇÕES
-- PHISHING, CODIGOS MALICIOSOS E VERIFICAÇÃO DE DUAS ETAPAS
-
-## Gestão de Startup II
-- Apresentação do Projeto Pessoal: 25/set
-- Avaliações Bimestrais: 23/set
-
-### Conteúdos para estudar para a prova:
-- JORNADA DO PRODUTO: DA IDEIA AO LANÇAMENTO
-- PRODUTO X PROJETO: QUAL A DIFERENÇA
-- PENSAR NO USUÁRIO: INTRODUÇÃO AO CUSTOMER-CENTRIC
-- PAPEL DO PROGRAMADOR NO SUCESSO DO PRODUTO
-- REUNIÕES AGEIS: DAILY, PLANNING, REVIEW, RETRO
-- COMO PARTICIPAR DE SPRINTS E PLANNINGS
-- VALIDAÇÃO COM USUARIO: TESTES E PROTOTIPAGEM
-- MVP, MLP, MMP: COMO CONSTRUIR AOS POUCOS
