@@ -5,12 +5,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  ex01-exercicio-exemplo:
-    name: ex01-exercicio-exemplo
+  ex01-primeiro-projeto-com-node:
+    name: ex01-primeiro-projeto-com-node
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: 4-bimestre/poo/ex01-exercicio-exemplo
+        working-directory: 4-bimestre/poo/ex01-primeiro-projeto-com-node
     steps:
       - uses: actions/checkout@v3
       - run: npm install
