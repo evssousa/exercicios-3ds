@@ -5,12 +5,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  ex01-simulando-backend:
-    name: ex01-simulando-backend
+  ex01-exercicio-exemplo:
+    name: ex01-exercicio-exemplo
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: 4-bimestre/poo/ex01-simulando-backend
+        working-directory: 4-bimestre/poo/ex01-exercicio-exemplo
     steps:
       - uses: actions/checkout@v3
       - run: npm install
