@@ -3,6 +3,6 @@ Lista de exercícios para os alunos das turmas de Desenvolvimento de Sistemas da
 
 Complete o exercício no tempo estimado.
 
-<a href="https://meet.google.com/zyt-qhhq-dxa" target="_blank">CLIQUE AQUI PARA VER A AULA DE HOJE</a>
+<a href="https://meet.google.com/exp-duoi-kbb" target="_blank">CLIQUE AQUI PARA VER A AULA DE HOJE</a>
 
 Boas práticas!
