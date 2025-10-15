@@ -1,4 +1,4 @@
-name: Exercícios 4º bimestre - 2º ANO
+name: SOLUÇÕES dos Exercícios 4º bimestre - 2º ANO
 
 on:
   push:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: 4-bimestre/poo/ex01-primeiro-projeto-com-node
+        working-directory: 4-bimestre/poo/ex01-primeiro-projeto-com-node/solucao
     steps:
       - uses: actions/checkout@v3
       - run: npm install
