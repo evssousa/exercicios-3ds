@@ -1,0 +1,15 @@
+{
+  "name": "ex01-primeiro-projeto-com-node",
+  "version": "1.0.0",
+  "description": "Crie um arquivo chamado `pessoa.js` que exporta uma função chamada **apresentarPessoa**.",
+  "main": "pessoa.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node ./pessoa.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
