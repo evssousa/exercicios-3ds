@@ -1,0 +1,17 @@
+name: Exercícios 4º bimestre - 2º ANO
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  ex01-primeiro-projeto-com-node:
+    name: ex01-primeiro-projeto-com-node
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 4-bimestre/poo/solucao/ex01-primeiro-projeto-com-node
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
