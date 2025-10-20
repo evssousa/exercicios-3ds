@@ -35,3 +35,5 @@ server.close(() => {
 
 export default server
 ```
+
+Motivo: se o servidor não parar, o Action nunca vai terminar de verificar o teste.
