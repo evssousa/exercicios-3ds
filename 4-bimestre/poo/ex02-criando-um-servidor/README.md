@@ -23,3 +23,15 @@ Servidor rodando para John, idade 34!
 ```
 Servidor funcionando em http://localhost:3001
 ```
+
+### Observação
+
+Adicione essas linhas no final do seu servidor para o teste no Action funcionar:
+
+```
+server.close(() => {
+  console.log("Servidor encerrado.")
+})
+
+export default server
+```
