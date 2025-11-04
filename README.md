@@ -5,7 +5,7 @@ Complete o exercício no tempo estimado.
 
 <a href="https://www.linkedin.com/company/github-brazil/posts?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bgx0HwK3EQGeTWfEMuqP5Uw%3D%3D">Certificação do Github Foundations</a>
 
-<a href="https://meet.google.com/bar-tjzm-kpr" target="_blank">CLIQUE AQUI PARA VER A AULA DE HOJE</a>
+<a href="https://meet.google.com/xwq-gynd-dvd" target="_blank">CLIQUE AQUI PARA VER A AULA DE HOJE</a>
 
 ---
 
