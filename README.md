@@ -21,7 +21,7 @@ Apresentar uma ferramenta disponível do Kali Linux, demonstrar seu funcionament
 - Formato: até 3 pessoas
 
 ## Gestão de Startup II
-Desenvolver um micro-sass (Lovable, Horizons, etc) que resolva algum problema e que tenha uma potencial possibilidade de obter receita - REAL!!.
+Desenvolver um micro-sass (Lovable, Horizons, etc) que resolva algum problema e que tenha uma potencial possibilidade de obter receita - REAL!!!.
 - Previsão: 04 de dezembro
 - Formato: 2 micro-sass a cada 2 pessoas no grupo
 
