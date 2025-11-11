@@ -15,3 +15,14 @@ jobs:
       - uses: actions/checkout@v3
       - run: npm install
       - run: npm test
+
+  projeto6-api-de-catalogo:
+    name: projeto6-api-de-catalogo
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 4-bimestre/poo/projetos/projeto6-api-de-catalogo
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
