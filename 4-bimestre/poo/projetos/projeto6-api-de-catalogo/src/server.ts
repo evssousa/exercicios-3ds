@@ -15,11 +15,3 @@ server.use("/", router)
 server.listen(3000, () => {
   console.log("Servidor rodando em http://localhost:3000/")
 })
-
-process.on('SIGINT', () => {
-    console.log('Fechando servidor...');
-    server.close(() => {
-        console.log("Servidor encerrado. Encerrando processo.");
-        process.exit(0);
-    });
-});
