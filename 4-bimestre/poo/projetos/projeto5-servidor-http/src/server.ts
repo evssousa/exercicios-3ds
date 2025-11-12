@@ -2,7 +2,7 @@ import { createServer } from "node:http"
 let token: string = process.env.POST as string
 
 const server = createServer((req, res) => {
-    res.end("Servidor rodando para Raven, idade 16!!")
+    res.end("Servidor rodando para John, idade 34!")
 })
 
 server.listen(3001, () => {
