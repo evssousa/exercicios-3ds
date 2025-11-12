@@ -1,27 +1,44 @@
-import express, { Router } from "express"
+import { Router, Request, Response } from "express";
 
-const router = express.Router()
+const router = Router();
 
-router.get("/", (req, res) => {
-  console.log(req.params)
-  res.json([
-  { "id": 1, "nome": "Mouse Gamer", "preco": 120 },
-  { "id": 2, "nome": "Teclado Mecânico", "preco": 350 },
-  { "id": 3, "nome": "Monitor Full HD", "preco": 900 }
-])
-})
+let produtos = [
+  { id: 1, nome: "Notebook", preco: 3500 },
+  { id: 2, nome: "Mouse Gamer", preco: 150 },
+  { id: 3, nome: "Teclado Mecânico", preco: 400 },
+];
 
-router.get("/2", (req, res) => {
-    console.log(req.params)
-    res.json([
-        { "id": 2, "nome": "Teclado Mecânico", "preco": 350 }
-    ])
-})
+router.get("/", (req: Request, res: Response) => {
+  res.json(produtos);
+});
 
-router.post("/", (req, res) => {
-  res.json( {produtos: [
-    { "id": 4, "nome": "Headset RGB", "preco": 200 }
-  ] })
-})
+router.get("/:id", (req: Request, res: Response) => {
+  const id = Number(req.params.id);
+  const produto = produtos.find((p) => p.id === id);
 
-export default router
+  if (!produto) {
+    return res.status(404).json({ erro: "Produto não encontrado" });
+  }
+
+  res.json(produto);
+});
+
+// POST / → cadastra novo produto
+router.post("/", (req: Request, res: Response) => {
+  const { nome, preco } = req.body;
+
+  if (!nome || !preco) {
+    return res.status(400).json({ erro: "Nome e preço são obrigatórios" });
+  }
+
+  const novoProduto = {
+    id: produtos.length + 1,
+    nome,
+    preco,
+  };
+
+  produtos.push(novoProduto);
+  res.status(201).json(novoProduto);
+});
+
+export default router;
