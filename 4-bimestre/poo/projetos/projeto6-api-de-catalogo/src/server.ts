@@ -16,4 +16,6 @@ server.use("/", router)
 
 server.listen(3000, () => {
     console.log("Servidor rodando em http://localhost:" + token +"/")
-})
+}).close()
+
+export default server
