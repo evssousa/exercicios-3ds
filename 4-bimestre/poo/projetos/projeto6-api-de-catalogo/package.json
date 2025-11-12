@@ -7,7 +7,8 @@
     "test": "test"
   },
   "scripts": {
-    "start": "node --import=tsx --watch ./src/server.ts"
+    "start": "node --import=tsx --watch ./src/server.ts",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
@@ -18,11 +19,13 @@
     "@types/supertest": "^6.0.3",
     "jest": "^30.2.0",
     "supertest": "^7.1.4",
+    "ts-jest": "^29.4.5",
     "tsx": "^4.20.6",
     "typescript": "^5.9.3"
   },
   "dependencies": {
     "express": "^5.1.0",
-    "helmet": "^8.1.0"
+    "helmet": "^8.1.0",
+    "notenv": "^2.0.3"
   }
 }
