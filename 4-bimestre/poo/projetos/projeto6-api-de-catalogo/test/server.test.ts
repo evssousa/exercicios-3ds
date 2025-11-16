@@ -3,7 +3,7 @@ import server from "../src/server";
 
 describe("Testes do Projeto 6 - TechMarket API", () => {
   afterAll(() => {
-    server.close();
+    server.listen.close();
   });
 
   it("Deve retornar pong em /ping", async () => {
