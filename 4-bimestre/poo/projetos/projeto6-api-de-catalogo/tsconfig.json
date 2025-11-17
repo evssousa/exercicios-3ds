@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ES2020",
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "isolatedModules": false,
+    "verbatimModuleSyntax": false,
+    "outDir": "./dist",
+    "sourceMap": true,
+    "types": ["node", "jest"]
+  },
+  "include": ["src"]
+}
