@@ -8,9 +8,9 @@ router.get("/ping", (req, res) => {
 });
 
 router.get("/", (req, res) => {
-  res.json({ nome: "Gustavo", idade: 18 });
+  res.json({ nome: "John", idade: 34 })
 });
 
-router.use("/produtos", produtosRouter);
+router.use("/produtos", produtosRouter)
 
 export default router;
