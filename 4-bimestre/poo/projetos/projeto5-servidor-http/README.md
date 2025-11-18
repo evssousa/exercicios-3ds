@@ -1,6 +1,6 @@
 PROFESSOR: Everson Sousa | TURMA: 2º EM DESENVOLVIMENTO DE SISTEMAS
 
-DATA DE ENTREGA: 28/out (não haverá uma outra correção)
+DATA DE ENTREGA: até o final do bimestre
 
 # 💻 PROJETO 5 – Servidor HTTP com Variáveis de Ambiente
 
