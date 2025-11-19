@@ -17,13 +17,13 @@ app.use("/", router);
 const PORT = process.env.PORT || 3000;
 
 const server: Server = app.listen(PORT, () => {
-  if (process.env.NODE_ENV !== "test") {
-    console.log(`Servidor rodando em http://localhost:${PORT}/`);
-  }
+   if (process.env.NODE_ENV !== "test") {
+   console.log(`Servidor rodando em http://localhost:${PORT}/`);
+}
 });
 
-(server as any).listen = {
-  close: server.close.bind(server),
-};
+(server as any).listen = () => ({
+    close: server.close.bind(server),
+});
 
 export default server as any;

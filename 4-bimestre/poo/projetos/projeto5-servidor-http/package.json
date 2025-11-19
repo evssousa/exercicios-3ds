@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "start": "ts-node src/server.ts",
+    "dev": "node --env-file=.env --import=tsx --watch ./src/server.ts",
     "test": "jest"
   },
   "keywords": [],
@@ -24,6 +24,7 @@
     "@types/supertest": "^6.0.3",
     "jest": "^30.2.0",
     "supertest": "^7.1.4",
-    "ts-jest": "^29.4.5"
+    "ts-jest": "^29.4.5",
+    "tsx": "^4.20.6"
   }
 }
