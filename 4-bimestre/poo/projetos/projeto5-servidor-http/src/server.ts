@@ -1,7 +1,7 @@
 import { createServer } from "node:http"
 
-let nome: string = "Jonh"
-let idade: number = 34
+let nome = "John"
+let idade = 34
 let token: string = process.env.PORT as string
 
 const server = createServer((req, res) => {
