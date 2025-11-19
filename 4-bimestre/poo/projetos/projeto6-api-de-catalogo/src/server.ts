@@ -12,7 +12,7 @@ server.use(express.static(path.join(__dirname, "../public")))
 
 server.use("/", router)
 
-const app = server.listen(3000, () => {
+server.listen(3000, () => {
   console.log("Servidor rodando em http://localhost:3000/")
 })
 
@@ -20,4 +20,4 @@ const app = server.listen(3000, () => {
   console.log("Servidor encerrado.");
 });
 
-export default app;
+export default server;
