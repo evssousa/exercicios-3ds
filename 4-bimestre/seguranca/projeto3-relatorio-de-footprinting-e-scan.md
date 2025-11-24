@@ -1,6 +1,6 @@
 PROFESSOR: EVERSON SOUSA | TURMA: 2º EM DESENVOLVIMENTO DE SISTEMAS
 
-DATA DE ENTREGA: 12/nov (⚠️ não haverá outra possibilidade de entrega)
+DATA DE ENTREGA: 23/nov
 
 # 📌 PROJETO 3 - RELATÓRIO DE FOOTPRINT E SCAN
 

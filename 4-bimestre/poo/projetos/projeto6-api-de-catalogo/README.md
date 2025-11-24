@@ -1,6 +1,6 @@
 PROFESSOR: Everson Sousa | TURMA: 2º EM DESENVOLVIMENTO DE SISTEMAS
 
-DATA DE ENTREGA: 18/nov
+DATA DE ENTREGA: 23/nov
 
 # 🧩 PROJETO 6 - API DE CATÁLOGO DE PRODUTOS
 
@@ -117,7 +117,8 @@ ex06-techmarket
 Lembre-se de exportar o servidor e encerrar ele ao final do arquivo `server.ts` para o teste automatizado funcionar corretamente:
 
 ```tsx
-server.close(() => {
+// adicionar no final do seu servidor, depois do parêntese:
+.close(() => {
   console.log("Servidor encerrado.");
 });
 
