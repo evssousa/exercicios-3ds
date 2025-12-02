@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "## 🏢 Contexto",
   "main": "jest.config.js",
-  "directories": {
-    "test": "test"
-  },
   "scripts": {
     "start": "node --import=tsx --watch ./src/server.ts",
     "test": "jest"
