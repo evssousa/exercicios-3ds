@@ -3,6 +3,8 @@ Lista de exercícios para os alunos das turmas de Desenvolvimento de Sistemas da
 
 Link das Salas: <a href="https://meet.google.com/cbk-trzb-svk" target="_blank">SALA 1</a> | <a href="https://meet.google.com/scv-wbku-jsa" target="_blank">SALA 2</a>
 
+☠️ **Link para conteúdos da recuperação final 2025. [CLIQUE AQUI](https://www.notion.so/logicajseeep/Programa-o-Orientada-a-Objetos-245aa6380ac7806d9684ce58846b9b1e?source=copy_link).**
+
 <a href="https://www.linkedin.com/company/github-brazil/posts?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bgx0HwK3EQGeTWfEMuqP5Uw%3D%3D">Certificação do Github Foundations</a>
 
 Complete o exercício no tempo estimado.
