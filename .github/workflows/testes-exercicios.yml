@@ -15,3 +15,25 @@ jobs:
       - uses: actions/checkout@v3
       - run: npm install
       - run: npm test
+
+  ex03-funcao-de-quadrado:
+    name: ex03-funcao-de-quadrado
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 1-bimestre/teste-de-software/ex03-funcao-de-quadrado
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  ex04-usando-matchers:
+    name: ex04-usando-matchers
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 1-bimestre/teste-de-software/ex04-usando-matchers
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
