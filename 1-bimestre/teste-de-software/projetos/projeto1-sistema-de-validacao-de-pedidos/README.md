@@ -63,7 +63,7 @@ Exemplo de pedido válido:
 {
 	cliente: "Carlos",
 	total: 150,
-	itens: ["Produto A", "Produto B"]
+	itens: ["Produto A"],
 }
 ```
 
