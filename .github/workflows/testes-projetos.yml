@@ -1,4 +1,4 @@
-name: Projetos
+name: Corretor de Projetos
 
 on:
   push:
