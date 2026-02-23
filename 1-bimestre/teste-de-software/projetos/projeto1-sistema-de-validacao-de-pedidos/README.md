@@ -49,6 +49,23 @@ A função deve retornar:
 
 `false` // se o pedido for inválido
 
+**📌 Utilize a lógica abaixo para criar os testes**
+```js
+  if (!pedido.cliente) {
+    return false
+  }
+
+  if (pedido.total <= 0) {
+    return false
+  }
+
+  if (!pedido.itens || pedido.itens.length === 0) {
+    return false
+  }
+
+  return true
+```
+
 # **📋 TESTES SOLICITADOS**
 - Pedido válido deve retornar true
 - Pedido com total 0 deve retornar false
@@ -59,7 +76,7 @@ A função deve retornar:
 
 Exemplo de pedido válido:
 
-```jsx
+```js
 {
 	cliente: "Carlos",
 	total: 150,
