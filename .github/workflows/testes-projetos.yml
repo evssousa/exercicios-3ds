@@ -1,0 +1,17 @@
+name: Projetos
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  projeto1-sistema-de-validacao-de-pedidos:
+    name: projeto1-sistema-de-validacao-de-pedidos
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 1-bimestre/teste-de-software/projetos/projeto1-sistema-de-validacao-de-pedidos
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
