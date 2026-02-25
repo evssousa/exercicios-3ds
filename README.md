@@ -13,11 +13,18 @@ Complete o exercício no tempo estimado.
 
 ---
 
-# Atividades e Projetos
+# Atividades e Projetos - 1º Bimestre
 
 ### Qualidade e Teste de Software
 - Projeto Pessoal: aguarde mais informações...
 - **Projeto 1 - Sistema de Validação de Pedidos**<br>
 Prazo de Entrega 1: 25-fev (2,5 pt) | Prazo de Entrega 2: 01-mar (1,5 pt)
+- **Projeto 2 -**<br>
+Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
 
-<!-- OBS: exercícios entregues até um dia antes da apresentação do projeto pessoal do bimestre . -->
+### Gestão de Startup III
+- Projeto Pessoal: aguarde mais informações...
+- **Projeto 1 -**<br>
+Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
+- **Projeto 2 -**<br>
+Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
