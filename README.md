@@ -12,3 +12,10 @@ Complete o exercício no tempo estimado.
 🐝 <a href="https://judge.beecrowd.com/pt/login" target="_blank">ACESSE AQUI O BEECROWD</a>
 
 ---
+
+### Qualidade e Teste de Software
+- Projeto Pessoal: aguarde mais informações...
+- **Projeto 1 - Sistema de Validação de Pedidos**<br>
+Prazo de Entrega 1: 25-fev (2,5 pt) | Prazo de Entrega 2: 01-mar (1,5 pt)
+
+<!-- OBS: exercícios entregues até um dia antes da apresentação do projeto pessoal do bimestre . -->
