@@ -29,4 +29,4 @@ Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
 - **Projeto 2 -**<br>
 Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
 
-OBS: É necessário que todas os exercícios estejam concluídos até um dia antes da apresentação do projeto pessoal. Caso o aluno não tenha completado os exercícios, terá -3 pontos na nota Qualitativa.
+OBS: É necessário que todos os exercícios estejam concluídos até um dia antes da apresentação do projeto pessoal. Caso o aluno não tenha completado os exercícios, terá -3 pontos na nota Qualitativa.
