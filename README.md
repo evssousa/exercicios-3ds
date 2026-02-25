@@ -16,14 +16,18 @@ Complete o exercício no tempo estimado.
 # Atividades e Projetos - 1º Bimestre
 
 ### Qualidade e Teste de Software
-- Projeto Pessoal: aguarde mais informações...
+- Projeto Pessoal: Desenvolver um sistema utilizando conhecimentos de lógica de programação que contenha no mínimo 10 testes unitários e criar um relatório explicativo desses testes em formato de elicitação de requisitos (folha A4).
+Previsão para 30-mar | Quantidade de Indivíduos: 1 pessoa (2-3 min de apresentação)
+- Prova Bimestral: previsão para 06-abr
 - **Projeto 1 - Sistema de Validação de Pedidos**<br>
 Prazo de Entrega 1: 25-fev (2,5 pt) | Prazo de Entrega 2: 01-mar (1,5 pt)
 - **Projeto 2 -**<br>
 Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
 
 ### Gestão de Startup III
-- Projeto Pessoal: aguarde mais informações...
+- Projeto Pessoal: Apresentar solução que está sendo desenvolvida para os professores (versão beta). Deve ser apresentado em formato de Pitch, contendo demonstração do MVP e documentação do sistema.
+Previsão para 03-abr | Quantidade de Indivíduos: grupos com até 5 pessoas (5-10 min de apresentação)
+- Prova Bimestral: previsão para 10-abr
 - **Projeto 1 -**<br>
 Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
 - **Projeto 2 -**<br>
