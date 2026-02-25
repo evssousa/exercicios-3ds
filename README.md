@@ -13,6 +13,8 @@ Complete o exercício no tempo estimado.
 
 ---
 
+# Atividades e Projetos
+
 ### Qualidade e Teste de Software
 - Projeto Pessoal: aguarde mais informações...
 - **Projeto 1 - Sistema de Validação de Pedidos**<br>
