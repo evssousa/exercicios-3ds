@@ -29,7 +29,7 @@ Prazo de Entrega 1: - (5 pt) | Prazo de Entrega 2: - (3 pt)
 ### Gestão de Startup III
 - Projeto Pessoal: Apresentar solução que está sendo desenvolvida para os professores (versão beta). Deve ser apresentado em formato de Pitch, contendo demonstração do MVP e documentação do sistema.
 Previsão para 03-abr | Quantidade de Indivíduos: grupos com até 5 pessoas (5-10 min de apresentação)
-- Prova Bimestral: previsão para 10-abr
+- Prova Bimestral: previsão para 06-abr
 - **Projeto 1 - Apresentação do Briefing**<br>
 Prazo de Entrega 1: 27-fev (5 pt) | Prazo de Entrega 2: 06-mar (3 pt)
 - **Projeto 2 -**<br>
