@@ -23,8 +23,8 @@ Previsão para 30-mar | Quantidade de Indivíduos: 1 pessoa (2-3 min de apresent
 - Prova Bimestral: previsão para 06-abr
 - **Projeto 1 - Sistema de Validação de Pedidos**<br>
 Prazo de Entrega 1: 25-fev (5 pt) | Prazo de Entrega 2: 01-mar (3 pt)
-- **Projeto 2 -**<br>
-Prazo de Entrega 1: - (5 pt) | Prazo de Entrega 2: - (3 pt)
+- **Projeto 2 - Sistema de Cadastro de Tarefas**<br>
+Prazo de Entrega 1: - 25-mar (5 pt) | Prazo de Entrega 2: - 29-mar (3 pt)
 
 ### Gestão de Startup III
 - Projeto Pessoal: Apresentar solução que está sendo desenvolvida para os professores (versão beta). Deve ser apresentado em formato de Pitch, contendo demonstração do MVP e documentação do sistema.
