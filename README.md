@@ -34,8 +34,8 @@ Previsão para 03-abr | Quantidade de Indivíduos: grupos com até 5 pessoas (5-
 - Prova Bimestral: previsão para 06-abr
 - **Projeto 1 - Apresentação do Briefing**<br>
 Prazo de Entrega 1: 27-fev (5 pt) | Prazo de Entrega 2: 06-mar (3 pt)
-- **Projeto 2 -**<br>
-Prazo de Entrega 1: - (5 pt) | Prazo de Entrega 2: - (3 pt)
+- **Projeto 2 - Construção de Perfil Profissional**<br>
+Prazo de Entrega 1: 01-abr (5 pt) | Prazo de Entrega 2: 07-abr (3 pt)
 
 OBS: É necessário que todos os exercícios estejam concluídos até um dia antes da apresentação do projeto pessoal. Caso o aluno não tenha completado os exercícios, terá -3 pontos na nota Qualitativa.
 
