@@ -28,6 +28,18 @@ Prazo de Entrega 1: 25-fev (5 pt) | Prazo de Entrega 2: 01-mar (3 pt)
 - **Projeto 2 - Sistema de Cadastro de Tarefas**<br>
 Prazo de Entrega 1: 25-mar (5 pt) | Prazo de Entrega 2: 29-mar (3 pt)
 
+#### | CONTEÚDOS PARA A PROVA
+```
+- INTRODUÇÃO A TESTES, TDD E TIPOS DE TESTES
+- CONFIGURANDO JEST NO PROJETO
+- CRIANDO O PRIMEIRO TESTE E FUNÇÕES A PARTIR DO TESTE
+- TIPOS DE MATCHERS
+- LIFECYCLE PARA TESTES E CRIANDO SERVICES NA API BASE
+- IMPLEMENTANDO O SERVICE NO CONTROLLER
+- PREPARANDO AMBIENTE PARA TESTES NO BANCO DE DADOS
+- CRIANDO TESTES PARA O SERVICE
+```
+
 ### Gestão de Startup III
 - Projeto Pessoal: Apresentar solução que está sendo desenvolvida para os professores (versão beta). Deve ser apresentado em formato de Pitch, contendo demonstração do MVP e documentação do sistema.
 Previsão para 03-abr | Quantidade de Indivíduos: grupos com até 5 pessoas (5-10 min de apresentação)
@@ -36,6 +48,14 @@ Previsão para 03-abr | Quantidade de Indivíduos: grupos com até 5 pessoas (5-
 Prazo de Entrega 1: 27-fev (5 pt) | Prazo de Entrega 2: 06-mar (3 pt)
 - **Projeto 2 - Construção de Perfil Profissional**<br>
 Prazo de Entrega 1: 01-abr (5 pt) | Prazo de Entrega 2: 07-abr (3 pt)
+
+#### | CONTEÚDOS PARA A PROVA
+```
+- CARREIRA TECH EM 2026: PROFISSIONAL E TECNICO VS GESTÃO
+- ROADMAP DE PRODUTO: COMO PRODUTOS DIGITAIS EVOLUEM NO MERCADO
+- VISÃO DE MERCADO E INOVAÇÃO TECNOLOGICA EM STARTUPS
+- FORMATOS DE TRABALHO: SPRINT
+```
 
 OBS: É necessário que todos os exercícios estejam concluídos até um dia antes da apresentação do projeto pessoal. Caso o aluno não tenha completado os exercícios, terá -3 pontos na nota Qualitativa.
 
