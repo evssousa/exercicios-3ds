@@ -1,0 +1,28 @@
+name: Corretor de Exercícios 2º BI
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  aula01-revisando-testes:
+    name: aula01-revisando-testes
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 2-bimestre/teste-de-software/aula01-revisando-testes
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
+
+  aula02-criando-testes-para-diferentes-cenarios:
+    name: aula02-criando-testes-para-diferentes-cenarios
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 2-bimestre/teste-de-software/aula02-criando-testes-para-diferentes-cenarios
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm test
