@@ -36,7 +36,6 @@ Prazo de Entrega 1: 17-mai (5 pt) | Prazo de Entrega 2: 10-mai (3 pt)
 
 ### Gestão de Startup III
 - Projeto Pessoal: Apresentar produto final da solução que estava sendo desenvolvida para os professores. Deve ser apresentado em formato de Pitch, contendo demonstração do sistema e **documentação em folha A4 IMPRESSA SEGUINDO AS NORMAS DA ABNT!**. Previsão para 12-jun | Quantidade de Indivíduos: grupos com até 5 pessoas (5-10 min de apresentação)
-
 - Prova Bimestral: previsão para 19-jun
 - **✅ Projeto 1 - Apresentação do Briefing**<br>
 Prazo de Entrega 1: 27-fev (5 pt) | Prazo de Entrega 2: 06-mar (3 pt)
